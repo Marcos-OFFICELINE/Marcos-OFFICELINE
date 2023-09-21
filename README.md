@@ -7,5 +7,5 @@ Meu nome é Marcos Herrera
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entra em contato comigo 📫
-![texto-alternativo](link-da-imagem)
+
 marcos.oliveira.silva01@escola.pr.gov.br
